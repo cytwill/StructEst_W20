@@ -64,7 +64,7 @@ Project paper                |   20   |    28.6%   |
 
 * **Homework:** I will assign 4 problem sets throughout the first half of the term.
     * You must write and submit your own computer code, although I encourage you to collaborate with your fellow students. I **DO NOT** want to see a bunch of copies of identical code. I **DO** want to see each of you learning how to code these problems so that you could do it on your own.
-    * Problem set solutions, both written and code portions, will be turned in via a pull request from your private [GitHub.com](https://git-scm.com/) repository which is a fork of the class master repository on my account. (You will need to set up a GitHub account if you do not already have one.)
+    * Problem set solutions, both written and code portions, will be turned in by committing and pushing them to your private [GitHub.com](https://git-scm.com/) repository which is a fork of the class master repository on my account. (You will need to set up a GitHub account if you do not already have one.)
     * Problem sets will be due on the day listed in the Daily Course Outline section of this syllabus (see below) unless otherwise specified. Late homework will not be graded.
 * **Project:** The project will either be a replication of an existing structural estimation paper or an original estimation project. I will approve each project. The final writeup of the project will be worth 20 points, which is equivalent to two homework assignments. The initial in-class presentation of your project proposal and your final in-class presentation of your project results will each be worth 5 points. The project write up will be due on Wednesday, March 12, the day after regular classes end (first reading day).
 
@@ -88,8 +88,8 @@ I will use a shell script to clone all class members' repositories at the time t
 | Jan. 15 | W | Maximum likelihood estimation (MLE) |  |     |
 | Jan. 20 | M | **No class (Martin Luther King, Jr. Day)** |    |     |
 | Jan. 22 | W | Compare ML and GMM                  | FMS1995 |  |
-| Jan. 27 | M | Generalized method of moments (GMM) | Notebk | PS3 |
-| Jan. 29 | W | No Class: Winter Weather Cancellation |      |     |
+| Jan. 27 | M | Generalized method of moments (GMM) | [Notebk](https://github.com/rickecon/StructEst_W20/blob/master/Notebooks/GMM/GMMest.ipynb) | [PS3](https://github.com/rickecon/StructEst_W20/blob/master/ProblemSets/PS3/PS3.pdf) |
+| Jan. 29 | W | Generalized method of moments (GMM) |      |     |
 | Feb.  3 | M | Generalized method of moments (GMM) | H1982   |     |
 | Feb.  5 | W | Simulated Method of Moments (SMM)   | Notebk | PS4 |
 | Feb. 10 | M | Simulated Method of Moments (SMM)   | DM2004  |  |
